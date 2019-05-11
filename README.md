@@ -54,6 +54,8 @@ There’s no formal career track for becoming a DevOps engineer. They are either
 - https://www.youtube.com/watch?v=_I94-tJlovg
 - [Devops- The big picture](https://www.codeproject.com/Articles/1394594/Devops-The-Big-Picture)
 - https://www.atlassian.com/devops
+- [What does a DevOps Engineer do](https://intellipaat.com/blog/what-does-a-devops-engineer-do/)
+- [Microsoft-Devops](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
 
 
 
@@ -78,6 +80,8 @@ First is >
 - [Complete Cheat Sheet](https://github.com/wilfredinni/python-cheatsheet)
 - [Pysheet- Collection of Python Snippets](https://www.pythonsheets.com/)
 - [Learn Python the Hard Way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
+- [Dive into python3](https://www.cmi.ac.in/~madhavan/courses/prog2-2012/docs/diveintopython3/index.html)
+- [Hitchhickers Guide to Python](https://docs.python-guide.org/)
 
 > Will add for other programming languages slowly but surely
 
