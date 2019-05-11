@@ -49,7 +49,6 @@ There’s no formal career track for becoming a DevOps engineer. They are either
 
 ### More reading:
 
-There are a lot of concepts in Devops eg:CI/CD etc but I donot want this one to be a textbook of sorts for that. Just gave a overview of it and rest 
 - [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - [What is DevOps](https://theagileadmin.com/what-is-devops/)
 - https://www.youtube.com/watch?v=_I94-tJlovg
@@ -64,6 +63,29 @@ https://dzone.com/articles/the-devops-roadmap-for-programmers
 
 https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say
 
+# Path:
+
+Lets go one by one through the list of technologies to learn according to the path
+
+First is >
+
+## 1. Learn a Programming Language:
+
+### Python:
+
+- [Official Documentation](https://docs.python.org/3/tutorial/index.html)
+- [Cheat Sheets Compilation](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+- [Complete Cheat Sheet](https://github.com/wilfredinni/python-cheatsheet)
+- [Pysheet- Collection of Python Snippets](https://www.pythonsheets.com/)
+- [Learn Python the Hard Way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
+
+> Will add for other programming languages slowly but surely
+
+
+## 2. Understanding different OS concepts:
+
+- [Operating System Concepts book](https://github.com/rangaeeeee/books-os/blob/master/Operating%20System%20Concepts%20-%209th%20Edition.pdf)
+- [OS Final exam study guide](https://www.cs.rutgers.edu/~pxk/416/exam/study-guide-final.html)
 
 # OS
 http://pages.cs.wisc.edu/~remzi/OSTEP/
