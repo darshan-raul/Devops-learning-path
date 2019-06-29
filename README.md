@@ -11,10 +11,7 @@ To keep things simple and straight forward, I am going to follow this single roa
 ## 📝 Table of Contents
 - [Roadmap](#roadmap)
 - [What is DevOps](#devops)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Architecture](#architecture)
-- [Built Using](#built_using)
+- [Path](#path)
 - [TODO](#todo)
 
 
@@ -78,7 +75,7 @@ https://dzone.com/articles/the-devops-roadmap-for-programmers
 
 https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say
 
-# Path:
+# Path: <a name = "path"></a>
 
 Lets go one by one through the list of technologies to learn according to the path
 
