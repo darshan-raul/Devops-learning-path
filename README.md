@@ -82,28 +82,75 @@ Lets go one by one through the list of technologies to learn according to the pa
 
 - [Learn a Programming Language](#proglang)
 - [Understanding different OS concepts](#osconcepts)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
+- [Learning and Managing Servers](#getting_started)
+  - [OS]()
+    - [Linux]()
+    - [Windows]()
+  - [Learning to live the Terminal]()
+    - [Bash Scripting]()
+      - [Process Monitoring]()
+      - [Text Manipulation Tools]()
+      - [Network]()
+      - [System performance]()    
+    - [Vim/nano]()
+    - [Compiling apps]()
+- [Network and Security]()   
+- [How to setup](#deployment)
+  - [reverse proxy]()
+  - [forward proxy]()
+  - [Caching server]()
+  - [Load balancer]()
+  - [firewall]()
+- [Web Servers]()
+  - [Nginx]()
+  - [Tomcat]()
+  - [Apache]()
+- [Infrastructure as Code]()
+  - [Container]()
+  - [Container Orchrestation]()
+  - [infrastructure provisioning]()
+- [Configuration Management]()
+  - [Ansible]()
+  - [Salt]()
+  - [Puppet]()
+  - [Chef]()
+- [CI/CD tools]()
+  - [Jenkins]()
+  - [GitlabCI]()
+  - [CodePipeline]()
+  
+  
 - [Architecture](#architecture)
 - [Built Using](#built_using)
 - [TODO](#todo)
 
-### Learn a Programming Language:<a name = "proglang"></a>
+<a name = "proglang"></a>
+### Learn a Programming Language:
 
 #### Python:
 
+Nothing gets better than the official documentation
 - [Official Documentation](https://docs.python.org/3/tutorial/index.html)
+
+But here's a great alternative
+- [Hitchhickers Guide to Python](https://docs.python-guide.org/)
+
+Cheatsheets:
+
 - [Cheat Sheets Compilation](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 - [Complete Cheat Sheet](https://github.com/wilfredinni/python-cheatsheet)
 - [Pysheet- Collection of Python Snippets](https://www.pythonsheets.com/)
+
+Interesting Books to look at:
+
 - [Learn Python the Hard Way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
 - [Dive into python3](https://www.cmi.ac.in/~madhavan/courses/prog2-2012/docs/diveintopython3/index.html)
-- [Hitchhickers Guide to Python](https://docs.python-guide.org/)
+
 
 > Will add for other programming languages slowly but surely
 
-
-### Understanding different OS concepts:<a name = "osconcepts"></a>
+<a name = "osconcepts"></a>
+### Understanding different OS concepts:
 
 - [Operating System Concepts book](https://github.com/rangaeeeee/books-os/blob/master/Operating%20System%20Concepts%20-%209th%20Edition.pdf)
 - [OS Final exam study guide](https://www.cs.rutgers.edu/~pxk/416/exam/study-guide-final.html)
