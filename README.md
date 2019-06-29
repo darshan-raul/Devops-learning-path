@@ -82,11 +82,18 @@ https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say
 
 Lets go one by one through the list of technologies to learn according to the path
 
-First is >
 
-## 1. Learn a Programming Language:
+- [Learn a Programming Language](#proglang)
+- [Understanding different OS concepts](#osconcepts)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Architecture](#architecture)
+- [Built Using](#built_using)
+- [TODO](#todo)
 
-### Python:
+### Learn a Programming Language:<a name = "proglang"></a>
+
+#### Python:
 
 - [Official Documentation](https://docs.python.org/3/tutorial/index.html)
 - [Cheat Sheets Compilation](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
@@ -99,7 +106,7 @@ First is >
 > Will add for other programming languages slowly but surely
 
 
-## 2. Understanding different OS concepts:
+### Understanding different OS concepts:<a name = "osconcepts"></a>
 
 - [Operating System Concepts book](https://github.com/rangaeeeee/books-os/blob/master/Operating%20System%20Concepts%20-%209th%20Edition.pdf)
 - [OS Final exam study guide](https://www.cs.rutgers.edu/~pxk/416/exam/study-guide-final.html)
