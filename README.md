@@ -7,6 +7,19 @@ To keep things simple and straight forward, I am going to follow this single roa
 
 **NOTE** Will try to be as brief as possible while defining anything. I want this list to be as comprehensive as possible with all things DevOps which essentially means that its invevitable its going to be long. So I will avoid going into more details than necessary for the concepts. Of course I will attach the best links explaining the topics in much depth.
 
+
+## 📝 Table of Contents
+- [Roadmap](#roadmap)
+- [What is DevOps](#devops)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Architecture](#architecture)
+- [Built Using](#built_using)
+- [TODO](#todo)
+
+
+## Roadmap <a name = "roadmap"></a>
+
 https://roadmap.sh/devops
 
 ![devops roadmap](https://roadmap.sh/assets/img/roadmaps/devops-transparent.png)
@@ -15,7 +28,7 @@ https://roadmap.sh/devops
 
 Lets start!
 
-# DevOps:
+## DevOps <a name = "devops"></a>
 
 DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.
 
