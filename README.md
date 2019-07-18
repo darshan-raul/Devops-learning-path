@@ -3,7 +3,7 @@
 
 This is my attempt to compile all the various resources which are availble online to build a single curated list of all links and data regarding Devops
 
-To keep things simple and straight forward, I am going to follow this single roadmap and then list out the resources/notes in that flow. All credits to the creator of the roadmap :)
+To keep things simple and straight forward, I am going to follow this single roadmap and then list out the resources/notes in that flow. All credits to the creator of the roadmap 
 
 **NOTE** Will try to be as brief as possible while defining anything. I want this list to be as comprehensive as possible with all things DevOps which essentially means that its invevitable its going to be long. So I will avoid going into more details than necessary for the concepts. Of course I will attach the best links explaining the topics in much depth.
 
